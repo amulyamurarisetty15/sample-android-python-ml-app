@@ -1,6 +1,5 @@
 numpy
 pandas
-GradientBoostingClassifier
 KFold
 train_test_split
 pickle
