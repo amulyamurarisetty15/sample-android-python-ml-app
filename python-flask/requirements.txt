@@ -3,7 +3,3 @@ pandas
 KFold
 train_test_split
 pickle
-Flask
-request
-jsonify
-render_template
